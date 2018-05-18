@@ -35,8 +35,11 @@ header.startup h1 {
 	font-size: 2rem;
 }
 
-.btn {
+.col-lg-12 {
 	justify-content: center;
+}
+
+.btn {
 	font-weight: 700;
 	text-transform: uppercase;
 	border-radius: 300px;
